@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**caseykoh/caseykoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Casey, a passionate software engineer with a focus on frontend development using TypeScript and React.
 
-Here are some ideas to get you started:
+## What I Do
+Front-End: Crafting dynamic interfaces with eye-catching designs.  
+Back-End: Building and maintaining server-side components, ensuring efficient data management and system performance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+Languages: React, TypeScript, JavaScript, HTML/CSS, Python, SQL, and more.  
+Tools: Node.js, Express.js, PostgreSQL, Git, Docker, and AWS.  
+
+## 🌱 Currently Learning
+- AI development
+
+## 📫 How to reach me
+- [Email](mailto:s.casey.koh.com)
+- [LinkedIn](https://www.linkedin.com/in/caseykoh)
+
+## 🔗 Projects
+- [Tattoo Booking Website](https://proxiiworld.com/)
